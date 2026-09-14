@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#ffffff" />
+  <meta name="description" content="Nival Pay: comparte tus datos bancarios y link de pago con una tarjeta NFC." />
+  <title>Nival Pay | Cobra sin complicaciones</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="nav">
+    <a class="brand" href="#inicio" aria-label="Nival Tech"><span class="brand-mark">◉</span><span>Nival Tech</span></a>
+    <a class="nav-cta" href="#contacto">Quiero mi tarjeta</a>
+  </header>
+
+  <main>
+    <section class="hero" id="inicio">
+      <div class="hero-copy">
+        <p class="eyebrow">Tarjeta NFC + página de pago</p>
+        <h1>Cobra. Sin<br />complicaciones.</h1>
+        <p class="lead">Una tarjeta NFC que lleva a tus clientes directamente a tus datos bancarios y a tu link de pago. Nada de buscar la CLABE ni mandarla por WhatsApp.</p>
+        <div class="actions">
+          <a class="btn primary" href="#contacto">Quiero mi tarjeta</a>
+          <a class="btn secondary" href="#como-funciona">Ver cómo funciona</a>
+        </div>
+      </div>
+      <div class="product-visual" aria-label="Vista previa de Nival Pay">
+        <div class="nfc-card"><strong>NIVAL TECH</strong><div><b>Cafetería Luna</b><span>Tarjeta de cobro NFC</span></div></div>
+        <div class="phone"><div class="phone-screen"><span class="mini-logo">CL</span><b>Cafetería Luna</b><small>Elige cómo quieres pagar</small><span class="mini-button">Pagar ahora</span></div></div>
+      </div>
+    </section>
+
+    <section class="steps" id="como-funciona">
+      <p class="eyebrow">Así de simple</p><h2>Acerca. Abre. Paga.</h2>
+      <div class="step-grid"><article><span>01</span><h3>Acerca la tarjeta</h3><p>Tu cliente acerca su celular a la tarjeta NFC.</p></article><article><span>02</span><h3>Abre tu página</h3><p>Ve tus datos bancarios y tu enlace de pago al instante.</p></article><article><span>03</span><h3>Realiza el pago</h3><p>Copia la CLABE o abre directamente el método de pago.</p></article></div>
+    </section>
+
+    <section class="demo" id="demo">
+      <div class="payment-card">
+        <div class="business-icon">CL</div><h2>Cafetería Luna</h2><p>Elige cómo quieres pagar</p>
+        <a class="pay-now" href="#" onclick="return false">💳 Pagar ahora</a>
+        <div class="divider"><span>o transferencia bancaria</span></div>
+        <h3>Datos para transferencia</h3><div class="row"><span>Banco</span><strong>BBVA</strong></div><div class="row"><span>Beneficiario</span><strong>Juan Pérez</strong></div>
+        <div class="clabe"><small>CLABE interbancaria</small><code id="clabe">012345678901234567</code><button id="copyClabe">Copiar CLABE</button></div>
+        <p class="notice">Verifica los datos del beneficiario antes de realizar una transferencia.</p><p class="powered">Powered by <strong>NIVAL TECH</strong></p><span class="demo-tag">DEMO — datos ficticios</span>
+      </div>
+    </section>
+
+    <section class="contact" id="contacto"><p class="eyebrow">Nival Pay</p><h2>Tu forma de cobrar,<br />a un toque.</h2><p>Una tarjeta física. Una página sencilla. Tus datos listos para cobrar.</p><a class="btn primary" href="mailto:hola@nivaltech.mx?subject=Quiero%20mi%20Nival%20Pay">Quiero mi tarjeta</a></section>
+  </main>
+  <footer><strong>Nival Tech</strong><span>© 2026 Nival Tech</span></footer>
+  <script src="script.js"></script>
+</body>
+</html>
