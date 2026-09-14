@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+<title id="title">Guía visual BBVA y Openpay para crear un link de pago</title>
+<desc id="desc">Ilustración con tres pasos: entrar a la solución de cobro, crear el link y copiarlo para compartir.</desc>
+<rect width="900" height="560" rx="34" fill="#F4F7FB"/>
+<rect x="42" y="42" width="816" height="476" rx="28" fill="#fff" stroke="#D8E1EC"/>
+<text x="78" y="100" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700" fill="#072146">BBVA + Openpay</text>
+<text x="78" y="132" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#5B6B7B">Guía visual para encontrar y crear tu link de pago</text>
+<rect x="78" y="170" width="220" height="282" rx="28" fill="#071F3F"/>
+<rect x="96" y="194" width="184" height="232" rx="20" fill="#fff"/>
+<text x="118" y="234" font-family="Arial" font-size="15" font-weight="700" fill="#071F3F">1. Entra a cobros</text>
+<rect x="118" y="258" width="140" height="46" rx="12" fill="#EAF1F8"/>
+<text x="188" y="287" text-anchor="middle" font-family="Arial" font-size="14" fill="#071F3F">Zona de cobro</text>
+<text x="188" y="322" text-anchor="middle" font-family="Arial" font-size="13" fill="#6B7785">o Link de pago</text>
+<text x="188" y="344" text-anchor="middle" font-family="Arial" font-size="13" fill="#6B7785">Openpay</text>
+<circle cx="188" cy="393" r="12" fill="#2DCCCD"/>
+<path d="M182 393l4 4 8-10" fill="none" stroke="#071F3F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M324 311h78" stroke="#AAB7C4" stroke-width="4" stroke-linecap="round"/>
+<path d="M392 302l12 9-12 9" fill="none" stroke="#AAB7C4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="430" y="170" width="190" height="282" rx="26" fill="#fff" stroke="#D8E1EC" stroke-width="2"/>
+<circle cx="525" cy="216" r="27" fill="#E9F3FF"/>
+<text x="525" y="224" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#1464A5">$</text>
+<text x="525" y="267" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#172B3A">2. Crea el cobro</text>
+<text x="525" y="299" text-anchor="middle" font-family="Arial" font-size="14" fill="#607080">Ingresa importe</text>
+<text x="525" y="323" text-anchor="middle" font-family="Arial" font-size="14" fill="#607080">y concepto</text>
+<rect x="462" y="357" width="126" height="42" rx="12" fill="#1464A5"/>
+<text x="525" y="383" text-anchor="middle" font-family="Arial" font-size="14" font-weight="700" fill="#fff">Crear link</text>
+<path d="M646 311h48" stroke="#AAB7C4" stroke-width="4" stroke-linecap="round"/>
+<path d="M684 302l12 9-12 9" fill="none" stroke="#AAB7C4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="720" y="170" width="100" height="282" rx="26" fill="#071F3F"/>
+<rect x="734" y="194" width="72" height="232" rx="18" fill="#fff"/>
+<text x="770" y="240" text-anchor="middle" font-family="Arial" font-size="13" font-weight="700" fill="#172B3A">3.</text>
+<text x="770" y="262" text-anchor="middle" font-family="Arial" font-size="12" fill="#607080">Copia</text>
+<text x="770" y="280" text-anchor="middle" font-family="Arial" font-size="12" fill="#607080">el link</text>
+<rect x="744" y="315" width="52" height="38" rx="10" fill="#2DCCCD"/>
+<path d="M759 332h19M759 340h13" stroke="#071F3F" stroke-width="2" stroke-linecap="round"/>
+<text x="770" y="385" text-anchor="middle" font-family="Arial" font-size="11" fill="#607080">Compártelo</text>
+<text x="78" y="492" font-family="Arial" font-size="13" fill="#7B8794">Ilustración orientativa: los nombres y pantallas pueden variar según tu producto BBVA/Openpay.</text>
+</svg>
